@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @novitaalya1
-- 👀 I’m interested in back end
+- 👀 I’m interested in front end
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on any project Laravel Livewire 
 - 📫 How to reach me novitaalya2@gmail.com
 
 <!---
